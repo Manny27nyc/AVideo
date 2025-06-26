@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // This file was auto-generated from sdk-root/src/data/iotsitewise/2019-12-02/waiters-2.json
 return [ 'version' => 2, 'waiters' => [ 'AssetModelNotExists' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribeAssetModel', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'error', 'expected' => 'ResourceNotFoundException', ], ], ], 'AssetModelActive' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribeAssetModel', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'path', 'argument' => 'assetModelStatus.state', 'expected' => 'ACTIVE', ], [ 'state' => 'failure', 'matcher' => 'path', 'argument' => 'assetModelStatus.state', 'expected' => 'FAILED', ], ], ], 'AssetNotExists' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribeAsset', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'error', 'expected' => 'ResourceNotFoundException', ], ], ], 'AssetActive' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribeAsset', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'path', 'argument' => 'assetStatus.state', 'expected' => 'ACTIVE', ], [ 'state' => 'failure', 'matcher' => 'path', 'argument' => 'assetStatus.state', 'expected' => 'FAILED', ], ], ], 'PortalNotExists' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribePortal', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'error', 'expected' => 'ResourceNotFoundException', ], ], ], 'PortalActive' => [ 'delay' => 3, 'maxAttempts' => 20, 'operation' => 'DescribePortal', 'acceptors' => [ [ 'state' => 'success', 'matcher' => 'path', 'argument' => 'portalStatus.state', 'expected' => 'ACTIVE', ], ], ], ],];

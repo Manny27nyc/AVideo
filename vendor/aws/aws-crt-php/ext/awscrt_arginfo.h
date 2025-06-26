@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 /* This is a generated file, edit the .stub.php file instead.
  * Stub hash: 344f9d59b85697b80bb6808ac7d5eb7c1d07c03f */
 

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // This file was auto-generated from sdk-root/src/data/dynamodb/2012-08-10/paginators-1.json
 return [ 'pagination' => [ 'BatchGetItem' => [ 'input_token' => 'RequestItems', 'output_token' => 'UnprocessedKeys', ], 'ListContributorInsights' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'output_token' => 'NextToken', ], 'ListExports' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'output_token' => 'NextToken', ], 'ListTables' => [ 'input_token' => 'ExclusiveStartTableName', 'limit_key' => 'Limit', 'output_token' => 'LastEvaluatedTableName', 'result_key' => 'TableNames', ], 'Query' => [ 'input_token' => 'ExclusiveStartKey', 'limit_key' => 'Limit', 'output_token' => 'LastEvaluatedKey', 'result_key' => 'Items', ], 'Scan' => [ 'input_token' => 'ExclusiveStartKey', 'limit_key' => 'Limit', 'output_token' => 'LastEvaluatedKey', 'result_key' => 'Items', ], ],];

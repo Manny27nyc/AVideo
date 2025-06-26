@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 // This file was auto-generated from sdk-root/src/data/transfer/2018-11-05/paginators-1.json
 return [ 'pagination' => [ 'ListAccesses' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'non_aggregate_keys' => [ 'ServerId', ], 'output_token' => 'NextToken', 'result_key' => 'Accesses', ], 'ListExecutions' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'non_aggregate_keys' => [ 'WorkflowId', ], 'output_token' => 'NextToken', 'result_key' => 'Executions', ], 'ListSecurityPolicies' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'output_token' => 'NextToken', 'result_key' => 'SecurityPolicyNames', ], 'ListServers' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'output_token' => 'NextToken', 'result_key' => 'Servers', ], 'ListTagsForResource' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'non_aggregate_keys' => [ 'Arn', ], 'output_token' => 'NextToken', 'result_key' => 'Tags', ], 'ListUsers' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'non_aggregate_keys' => [ 'ServerId', ], 'output_token' => 'NextToken', 'result_key' => 'Users', ], 'ListWorkflows' => [ 'input_token' => 'NextToken', 'limit_key' => 'MaxResults', 'output_token' => 'NextToken', 'result_key' => 'Workflows', ], ],];

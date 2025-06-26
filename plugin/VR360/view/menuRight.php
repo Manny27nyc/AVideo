@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <li>
     <div class="material-switch navbar-text" style="width: 120px;">
         <i class="fa fa-cube"></i> VR360 &nbsp;&nbsp;

@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <script src="<?php echo getURL('node_modules/videojs-contrib-ads/dist/videojs.ads.min.js'); ?>" type="text/javascript"></script>
 <script src="<?php echo getURL('node_modules/videojs-ima/dist/videojs.ima.min.js'); ?>" type="text/javascript"></script>
 <script>

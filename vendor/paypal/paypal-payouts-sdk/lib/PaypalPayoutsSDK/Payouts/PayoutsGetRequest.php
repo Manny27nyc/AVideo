@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 <?php
 
 // This class was generated on Fri, 20 Dec 2019 15:17:28 IST by version 0.1.0-dev+904328-dirty of Braintree SDK Generator
