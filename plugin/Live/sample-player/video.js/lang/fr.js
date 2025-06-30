@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage("fr",{
  "Play": "Lecture",
  "Pause": "Pause",

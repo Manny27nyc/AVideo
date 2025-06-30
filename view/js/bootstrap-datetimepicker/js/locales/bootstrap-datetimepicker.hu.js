@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Hungarian translation for bootstrap-datetimepicker
  * darevish <http://github.com/darevish>

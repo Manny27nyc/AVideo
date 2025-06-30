@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Scroller 2.0.4
  * ©2011-2021 SpryMedia Ltd - datatables.net/license
  */

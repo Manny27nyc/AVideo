@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Bahasa translation for bootstrap-datetimepicker
  * Azwar Akbar <azwar.akbar@gmail.com>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! ========================================================================
  * Bootstrap Toggle: bootstrap2-toggle.js v2.2.0
  * http://www.bootstraptoggle.com

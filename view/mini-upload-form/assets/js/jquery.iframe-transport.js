@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * jQuery Iframe Transport Plugin 1.6.1
  * https://github.com/blueimp/jQuery-File-Upload

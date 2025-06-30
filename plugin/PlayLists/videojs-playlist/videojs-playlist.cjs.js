@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! @name videojs-playlist @version 4.2.6 @license Apache-2.0 */
 'use strict';
 

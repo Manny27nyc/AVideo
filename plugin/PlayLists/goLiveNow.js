@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 $(document).ready(function () {
     swal({
         title: "Your playlist is NOT live, do you want to go live now?",

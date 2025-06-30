@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var Button = videojs.getComponent('Button');
 
 var playListProgramButton = videojs.extend(Button, {

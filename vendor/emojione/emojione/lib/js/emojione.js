@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* jshint maxerr: 10000 */
 /* jslint unused: true */
 /* jshint shadow: true */

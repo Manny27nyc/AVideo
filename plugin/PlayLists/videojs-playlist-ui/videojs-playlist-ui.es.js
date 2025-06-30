@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! @name videojs-playlist-ui @version 3.5.2 @license Apache-2.0 */
 import document from 'global/document';
 import videojs from 'video.js';

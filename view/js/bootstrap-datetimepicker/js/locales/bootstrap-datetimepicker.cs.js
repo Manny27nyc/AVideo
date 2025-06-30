@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Czech translation for bootstrap-datetimepicker
  * Matěj Koubík <matej@koubik.name>

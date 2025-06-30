@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Extend default
 $(document).ready(function () { 
   setTimeout(function(){  if(typeof player == 'undefined'){player = videojs(videoJsId);} 

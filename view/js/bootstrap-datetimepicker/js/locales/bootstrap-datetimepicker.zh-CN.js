@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Simplified Chinese translation for bootstrap-datetimepicker
  * Yuan Cheung <advanimal@gmail.com>

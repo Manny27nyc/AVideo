@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function saveShowOnTV(playlists_id, showOnTV) {
     modal.showPleaseWait();
     $.ajax({

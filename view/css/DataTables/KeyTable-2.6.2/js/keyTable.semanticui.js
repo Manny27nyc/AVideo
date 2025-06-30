@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Semanic UI styling wrapper for KeyTable
  * ©2018 SpryMedia Ltd - datatables.net/license
  */

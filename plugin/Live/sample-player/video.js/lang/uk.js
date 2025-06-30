@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage("uk",{
  "Play": "Відтворити",
  "Pause": "Призупинити",

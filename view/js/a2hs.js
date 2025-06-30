@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 // Register service worker to control making site work offline
 function serviceWorkerRegister() {

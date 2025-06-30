@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * jQuery & Zepto Lazy - Vimeo Plugin - v1.1
  * http://jquery.eisbehr.de/lazy/

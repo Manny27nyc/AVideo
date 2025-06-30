@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 $(function () {
     $("#mainNavBar").on("show.autoHidingNavbar", function () {
         if ($(window).scrollTop() < 10) {

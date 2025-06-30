@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Ukrainian translation for bootstrap-datepicker
  * Igor Polynets

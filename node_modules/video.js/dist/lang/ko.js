@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('ko', {
   "Play": "재생",
   "Pause": "일시중지",

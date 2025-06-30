@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // TODO: in future try to replace most inline compability checks with polyfills for code readability 
 
 // element.textContent polyfill.

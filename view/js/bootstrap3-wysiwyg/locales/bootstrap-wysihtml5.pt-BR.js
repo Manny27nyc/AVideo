@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Brazilian portuguese translation for bootstrap-wysihtml5
  */

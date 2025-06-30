@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ;(function(factory) {
     'use strict';
     /* global window: false, define: false, module: false */

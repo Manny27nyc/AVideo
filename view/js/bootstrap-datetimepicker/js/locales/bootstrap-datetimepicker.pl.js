@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Polish translation for bootstrap-datetimepicker
  * Robert <rtpm@gazeta.pl>

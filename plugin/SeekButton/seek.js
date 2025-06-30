@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 player.seekButtons({forward: playerSeekForward, back: playerSeekBack});
 var trackDisplayTimeout;
 var showingSeekButton = true;

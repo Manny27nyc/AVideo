@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * EmojioneArea v3.4.1
  * https://github.com/mervick/emojionearea

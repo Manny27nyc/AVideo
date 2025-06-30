@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * jQuery & Zepto Lazy - NOOP Plugin - v1.2
  * http://jquery.eisbehr.de/lazy/

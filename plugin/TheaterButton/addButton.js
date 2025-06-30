@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 $(document).ready(function () {
 
 var Button = videojs.getComponent('Button');

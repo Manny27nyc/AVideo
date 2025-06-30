@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 define("bootstrap.wysihtml5.commands", ["wysihtml5"], function(wysihtml5) {
 
 (function(wysihtml5) {

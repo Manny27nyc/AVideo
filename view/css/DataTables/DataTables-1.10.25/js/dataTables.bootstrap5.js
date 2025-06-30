@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! DataTables Bootstrap 5 integration
  * 2020 SpryMedia Ltd - datatables.net/license
  */

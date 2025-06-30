@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Norwegian translation for bootstrap-datetimepicker
  * Rune Warhuus <rune@dinkdonkd.no>

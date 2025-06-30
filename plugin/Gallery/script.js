@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function channelToGallery(users_id, add) {
     $.ajax({
         url: webSiteRootURL + 'plugin/Gallery/channelToGallery.json.php',

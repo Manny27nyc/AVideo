@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Bangla(Bangladesh) translation for bootstrap-datetimepicker
  * Mahbub Rabbani <mahbub [dot] rucse [at] gmail.com>

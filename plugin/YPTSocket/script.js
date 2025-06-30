@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var socketConnectRequested = 0;
 var totalDevicesOnline = 0;
 var yptSocketResponse;

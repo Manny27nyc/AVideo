@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! @name videojs-overlay @version 2.1.4 @license Apache-2.0 */
 'use strict';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Russian translation for bootstrap-datetimepicker
  * Victor Taranenko <darwin@snowdale.com>

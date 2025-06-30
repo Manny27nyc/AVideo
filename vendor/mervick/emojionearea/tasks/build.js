@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Special concat/build task to handle build requirements
  * Concats AMD modules, removes their definitions,

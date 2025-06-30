@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! FixedColumns 3.3.3
  * ©2010-2021 SpryMedia Ltd - datatables.net/license
  */

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * jquery-bootstrap-scrolling-tabs
  * @version v2.6.1

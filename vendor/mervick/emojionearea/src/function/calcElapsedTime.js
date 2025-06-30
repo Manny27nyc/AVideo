@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 define(function() {
     return function(label, blockCallback, condition) {
         var end_at, started_at = performance.now();

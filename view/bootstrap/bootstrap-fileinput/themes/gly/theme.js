@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * bootstrap-fileinput v4.4.4
  * http://plugins.krajee.com/file-input

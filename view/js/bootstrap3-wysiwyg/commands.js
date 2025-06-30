@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 (function(wysihtml5) {
   wysihtml5.commands.small = {
     exec: function(composer, command) {

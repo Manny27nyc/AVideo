@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * Font Awesome Icon Picker
  * https://farbelous.github.io/fontawesome-iconpicker/

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**!
  * KvSortable
  * @author	RubaXa   <trash@rubaxa.org>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 # -*- coding: utf-8; -*-
 
 from __future__ import unicode_literals

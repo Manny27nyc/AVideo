@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* This is a generated file, edit the .stub.php file instead.
  * Stub hash: 344f9d59b85697b80bb6808ac7d5eb7c1d07c03f */
 

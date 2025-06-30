@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
 
 JSZip - A Javascript class for generating and reading zip files

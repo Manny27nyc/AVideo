@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿/* =========================================================
  * bootstrap-datetimepicker.js
  * =========================================================

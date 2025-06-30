@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Georgian translation for bootstrap-datetimepicker
  * Zura Jijavadze <mailzura@gmail.com>

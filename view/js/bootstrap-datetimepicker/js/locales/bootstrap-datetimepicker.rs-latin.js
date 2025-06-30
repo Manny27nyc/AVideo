@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Serbian latin translation for bootstrap-datetimepicker
  * Bojan Milosavlević <milboj@gmail.com>

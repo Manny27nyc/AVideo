@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Bulma styling wrapper for Select
  * ©2021 SpryMedia Ltd - datatables.net/license
  */

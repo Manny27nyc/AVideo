@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Latvian translation for bootstrap-datetimepicker
  * Artis Avotins <artis@apit.lv>

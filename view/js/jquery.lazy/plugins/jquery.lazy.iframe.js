@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * jQuery & Zepto Lazy - iFrame Plugin - v1.5
  * http://jquery.eisbehr.de/lazy/

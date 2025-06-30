@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // see https://github.com/Modernizr/Modernizr/blob/master/feature-detects/storage/localstorage.js
 define([], function() {
     return function () {

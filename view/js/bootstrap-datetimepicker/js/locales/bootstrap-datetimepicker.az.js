@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Azerbaijani translation for bootstrap-datetimepicker
  * Konstantin Kaluzhnikov <k.kaluzhnikov@gmail.com>

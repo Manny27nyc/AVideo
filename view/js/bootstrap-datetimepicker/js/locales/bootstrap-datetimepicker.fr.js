@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * French translation for bootstrap-datetimepicker
  * Nico Mollet <nico.mollet@gmail.com>

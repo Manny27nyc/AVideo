@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var util = require("util"),
     fs   = require("fs"),
     _    = require("underscore");

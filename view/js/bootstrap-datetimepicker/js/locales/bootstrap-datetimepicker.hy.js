@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Armenian translation for bootstrap-datepicker
  * Hayk Chamyan <hamshen@gmail.com>

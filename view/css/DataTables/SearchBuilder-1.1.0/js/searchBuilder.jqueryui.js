@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! JQuery ui ui integration for DataTables' SearchBuilder
  * ©2016 SpryMedia Ltd - datatables.net/license
  */

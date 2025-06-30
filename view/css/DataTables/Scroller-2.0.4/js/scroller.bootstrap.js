@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Bootstrap 3 styling wrapper for Scroller
  * ©2018 SpryMedia Ltd - datatables.net/license
  */

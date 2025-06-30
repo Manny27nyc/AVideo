@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Estonian translation for bootstrap-datetimepicker
  * Rene Korss <http://rene.korss.ee> 

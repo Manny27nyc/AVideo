@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Catalan translation for bootstrap-datetimepicker
  * J. Garcia <jogaco.en@gmail.com>

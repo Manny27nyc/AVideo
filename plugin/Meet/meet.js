@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // this is the script that will be executed in the iframe on Jitsi side
 var jitsiIsLive = false;
 function setLivestreamURL() {

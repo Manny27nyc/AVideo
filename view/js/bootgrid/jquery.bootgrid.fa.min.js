@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! 
  * jQuery Bootgrid v1.3.1 - 09/11/2015
  * Copyright (c) 2014-2015 Rafael Staib (http://www.jquery-bootgrid.com)

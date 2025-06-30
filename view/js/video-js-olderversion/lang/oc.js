@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('oc', {
   "Audio Player": "Lector àudio",
   "Video Player": "Lector vidèo",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Swahili translation for bootstrap-datetimepicker
  * Edwin Mugendi <https://github.com/edwinmugendi>

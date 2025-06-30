@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('he', {
   "Audio Player": "נַגָּן שמע",
   "Video Player": "נַגָּן וידאו",

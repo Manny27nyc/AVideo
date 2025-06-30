@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * Print button for Buttons and DataTables.
  * 2016 SpryMedia Ltd - datatables.net/license

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 Template.registerHelper('emojione', new Template('emojione', function () {
     var view = this;
     var content;

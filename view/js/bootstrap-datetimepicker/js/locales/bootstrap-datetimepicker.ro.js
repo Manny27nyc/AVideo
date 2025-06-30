@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Romanian translation for bootstrap-datetimepicker
  * Cristian Vasile <cristi.mie@gmail.com>

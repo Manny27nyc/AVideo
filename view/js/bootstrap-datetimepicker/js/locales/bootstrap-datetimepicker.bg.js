@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Bulgarian translation for bootstrap-datetimepicker
  * Apostol Apostolov <apostol.s.apostolov@gmail.com>

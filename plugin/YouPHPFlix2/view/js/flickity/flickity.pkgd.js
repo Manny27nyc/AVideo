@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * Flickity PACKAGED v2.0.11
  * Touch, responsive, flickable carousels

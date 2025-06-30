@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @license
  * Video.js 5.20.0 <http://videojs.com/>

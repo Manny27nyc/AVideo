@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*! Select for DataTables 1.3.3
  * 2015-2021 SpryMedia Ltd - datatables.net/license/mit
  */

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
  * Bootstrap Cookie Alert by Wruczek
  * https://github.com/Wruczek/Bootstrap-Cookie-Alert

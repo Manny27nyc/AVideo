@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Finnish translation for bootstrap-datetimepicker
  * Jaakko Salonen <https://github.com/jsalonen>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Korean translation for bootstrap-datetimepicker
  * Gu Youn <http://github.com/guyoun>

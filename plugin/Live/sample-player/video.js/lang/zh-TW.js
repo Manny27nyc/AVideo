@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage("zh-TW",{
  "Play": "播放",
  "Pause": "暫停",

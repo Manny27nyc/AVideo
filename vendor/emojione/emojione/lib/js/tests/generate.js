@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // These tests are meant to develop over time.
 // New tests can be added to validate.json
 // Regenerate the tests.html file with the following command 'node generate.js'

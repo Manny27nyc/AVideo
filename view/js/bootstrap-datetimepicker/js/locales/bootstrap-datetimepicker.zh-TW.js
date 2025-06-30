@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Traditional Chinese translation for bootstrap-datetimepicker
  * Rung-Sheng Jang <daniel@i-trend.co.cc>

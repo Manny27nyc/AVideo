@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 define([], function() {
     var saveSelection, restoreSelection;
     if (window.getSelection && document.createRange) {

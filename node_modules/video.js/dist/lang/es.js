@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('es', {
   "Play": "Reproducir",
   "Play Video": "Reproducir Vídeo",

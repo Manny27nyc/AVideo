@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 this["wysihtml5"] = this["wysihtml5"] || {};
 this["wysihtml5"]["tpl"] = this["wysihtml5"]["tpl"] || {};
 

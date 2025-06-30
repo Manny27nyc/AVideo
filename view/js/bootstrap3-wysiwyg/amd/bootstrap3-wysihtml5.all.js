@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 define('wysihtml5', ['rangy', 'rangy-selectionsaverestore'], function (rangy) {
                 window.rangy = rangy;
 

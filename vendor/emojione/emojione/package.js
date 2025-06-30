@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 Package.describe({
   name: 'emojione:emojione',
   summary: 'Meteor Package of the https://www.emojione.com/ set.',

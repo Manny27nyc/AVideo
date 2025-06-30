@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Brazilian translation for bootstrap-datetimepicker
  * Cauan Cabral <cauan@radig.com.br>

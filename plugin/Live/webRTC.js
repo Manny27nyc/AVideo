@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 window.addEventListener('message', event => {
     if (event.data.startLiveRestream) {

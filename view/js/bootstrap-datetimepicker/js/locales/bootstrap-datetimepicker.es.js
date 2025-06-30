@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Spanish translation for bootstrap-datetimepicker
  * Bruno Bonamin <bruno.bonamin@gmail.com>

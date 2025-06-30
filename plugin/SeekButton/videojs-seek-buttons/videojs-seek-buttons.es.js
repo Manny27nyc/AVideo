@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import videojs from 'video.js';
 
 var version = "1.2.4";

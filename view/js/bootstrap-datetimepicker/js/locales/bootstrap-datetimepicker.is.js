@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Icelandic translation for bootstrap-datetimepicker
  * Hinrik Örn Sigurðsson <hinrik.sig@gmail.com>

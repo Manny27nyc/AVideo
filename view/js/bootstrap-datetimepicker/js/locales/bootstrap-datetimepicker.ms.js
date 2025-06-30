@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Malay translation for bootstrap-datetimepicker
  * Ateman Faiz <noorulfaiz@gmail.com>

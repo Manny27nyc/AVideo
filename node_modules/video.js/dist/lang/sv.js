@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('sv', {
   ", opens captions settings dialog": ", öppnar dialogruta för textning",
   ", opens descriptions settings dialog": ", öppnar dialogruta för inställningar",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Thai translation for bootstrap-datetimepicker
  * Suchau Jiraprapot <seroz24@gmail.com>

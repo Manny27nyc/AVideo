@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 videojs.addLanguage('fa', {
   "Audio Player": "پخش کننده صوت",
   "Video Player": "پخش کننده ویدیو",
